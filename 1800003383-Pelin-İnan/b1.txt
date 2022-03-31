@@ -1,0 +1,3 @@
+No.     Source                Destination           Protocol Length Info
+     61 192.168.1.38          154.52.100.15         ICMP     74     Echo (ping) request  id=0x0001, seq=409/39169, ttl=128 (reply in 64)
+     64 154.52.100.15         192.168.1.38          ICMP     74     Echo (ping) reply    id=0x0001, seq=409/39169, ttl=113 (request in 61)

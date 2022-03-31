@@ -1,0 +1,3 @@
+No.     Source                Destination           Protocol Length Info
+    177 192.168.1.38          192.168.1.1           DNS      67     Standard query 0x0002 A cnn.com
+    178 192.168.1.1           192.168.1.38          DNS      131    Standard query response 0x0002 A cnn.com A 151.101.65.67 A 151.101.129.67 A 151.101.193.67 A 151.101.1.67
